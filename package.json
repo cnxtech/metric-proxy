@@ -6,10 +6,10 @@
   "author": "Ayumi Yu <ayumi@ayumiyu.com>",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.15.2",
+    "body-parser": "^1.20.1",
     "config": "^1.26.2",
     "cookie-parser": "^1.4.3",
-    "express": "^4.14.0",
+    "express": "^4.18.2",
     "mixpanel": "^0.5.0",
     "request": "^2.75.0",
     "winston": "^2.2.0"
